@@ -2,3 +2,4 @@ NumPy = 2.0.2
 pandas = 2.2.2
 streamlit 
 scikit-learn
+pip = 24.3.1
